@@ -1,0 +1,128 @@
+/* CSS files add styling rules to your content */
+
+body {
+  font-family: helvetica, arial, sans-serif;
+  margin: 2em;
+}
+
+h1 {
+  font-style: italic;
+  color: #373fff;
+}
+
+.background {
+  background-color: black;
+}
+
+.scroll-left {
+  height: 50px;
+  overflow: hidden;
+  position: relative;
+}
+.scroll-left a {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  margin: 0;
+  line-height: 50px;
+  text-align: center;
+  /* Starting position */
+  moz-transform: translateX(100%);
+  webkit-transform: translateX(100%);
+  transform: translateX(100%);
+  /* Apply animation to this element */
+  moz-animation: scroll-left 10s linear infinite;
+  webkit-animation: scroll-left 10s linear infinite;
+  animation: scroll-left 10s linear infinite;
+  color: white;
+  word-spacing: 200px;
+  font-size: 40px;
+}
+ a:hover {
+  animation-play-state: paused;
+  color: cornsilk;
+  
+}
+@-moz-keyframes scroll-left {
+  0% {
+    moz-transform: translateX(100%);
+  }
+  100% {
+    moz-transform: translateX(-100%);
+  }
+}
+@-webkit-keyframes scroll-left {
+  0% {
+    webkit-transform: translateX(100%);
+  }
+  100% {
+    webkit-transform: translateX(-100%);
+  }
+}
+@keyframes scroll-left {
+  0% {
+    moz-transform: translateX(100%);
+    webkit-transform: translateX(100%);
+    transform: translateX(100%);
+  }
+  100% {
+    moz-transform: translateX(-100%);
+    webkit-transform: translateX(-100%);
+    transform: translateX(-100%);
+  }
+}
+
+.maps:hover {
+  color: hotpink;
+  
+}
+
+.maps {
+  color: white;
+  font-size: 30px;
+  position: absolute;
+  left: 47.5%;
+  top: 33%;
+}
+
+.cause {
+  color: white;
+  font-size: 30px;
+  position: absolute;
+  left: 47%;
+  top: 47%;
+}
+.cause:hover{
+  color: hotpink;
+
+}
+.about {
+  color: white;
+  font-size: 30px;
+  position: absolute;
+  left: 47.25%;
+  top: 62%;
+}
+.about:hover{
+ body-color: white;
+  color: hotpink;
+
+}
+.mainimg {
+  position: absolute;
+  height: 60%;
+  top: 22%;
+  left: 22.75%;
+}
+
+.post {
+  color: white;
+  font-size: 50px;
+  position: absolute;
+  top: 80%;
+  left: 5%;
+}
+.post:hover {
+  font-size: 60px;
+  color: yellow;
+}
