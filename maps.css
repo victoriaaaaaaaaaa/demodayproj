@@ -5,8 +5,8 @@
 .protest {
   font-family: sans-serif;
 }
-.protest:hover{
-  color:yellow;
+.protest:hover {
+  color: yellow;
 }
 .home {
   font-size: 20px;
@@ -25,7 +25,7 @@
   color: black;
   position: absolute;
   top: 10%;
-  left: 48.5%;
+  left: 48.75%;
 }
 .cause:hover {
   color: blue;
@@ -73,9 +73,515 @@ h1 {
 .center:hover {
   color: hotpink;
 }
-.tx {
+.alabama {
   position: absolute;
+  top: 60%;
+  color: black;
+  left: 60.5%;
   font-family: sans-serif;
-  top:64%;
-  left: 50%;
+}
+.alabama:hover {
+  color: blue;
+}
+.alaska {
+  position: absolute;
+  top: 68%;
+  color: black;
+  left: 30.5%;
+  font-family: sans-serif;
+}
+.alaska:hover {
+  color: blue;
+}
+.arizona {
+  position: absolute;
+  top: 56%;
+  color: black;
+  left: 35%;
+  font-family: sans-serif;
+}
+.arizona:hover {
+  color: blue;
+}
+.arkansas {
+  position: absolute;
+  color: black;
+  top: 56.5%;
+  left: 54.5%;
+  font-family: sans-serif;
+}
+.arkansas:hover {
+  color: blue;
+}
+.california {
+  position: absolute;
+  color: black;
+  font-family: sans-serif;
+  top: 47%;
+  left: 28%;
+}
+.california:hover {
+  color: blue;
+}
+.colorado {
+  position: absolute;
+  color: black;
+  font-family: sans-serif;
+  top: 46.5%;
+  left: 41.5%;
+}
+.colorado:hover {
+  color: blue;
+}
+.connecticut {
+  position: absolute;
+  color: black;
+  font-family: sans-serif;
+  top: 38.5%;
+  left: 73.5%;
+  font-size: 13px;
+}
+.connecticut:hover {
+  color: blue;
+}
+.delaware {
+  position: absolute;
+  color: black;
+  font-family: sans-serif;
+  top: 43.75%;
+  left: 72%;
+  font-size: 13px;
+}
+.delaware:hover {
+  color: blue;
+}
+.florida {
+  position: absolute;
+  color: black;
+  font-family: sans-serif;
+  top: 69%;
+  left: 66.5%;
+}
+.florida:hover {
+  color: blue;
+}
+.georgia {
+  position: absolute;
+  color: black;
+  font-family: sans-serif;
+  top: 60%;
+  left: 64%;
+}
+.georgia:hover {
+  color: blue;
+}
+.hawaii {
+  position: absolute;
+  color: black;
+  font-family: sans-serif;
+  top: 75.5%;
+  left: 42.75%;
+  font-size: 13px;
+}
+.hawaii:hover {
+  color: blue;
+}
+.idaho {
+  position: absolute;
+  color: black;
+  font-family: sans-serif;
+  top: 33%;
+  left: 34.5%;
+}
+.idaho:hover {
+  color: blue;
+}
+.illinois {
+  position: absolute;
+  color: black;
+  font-family: sans-serif;
+  top: 44.5%;
+  left: 57.5%;
+}
+.illinois:hover {
+  color: blue;
+}
+.indiana {
+  position: absolute;
+  color: black;
+  font-family: sans-serif;
+  top: 44.5%;
+  left: 60%;
+}
+.indiana:hover {
+  color: blue;
+}
+.iowa {
+  position: absolute;
+  color: black;
+  font-family: sans-serif;
+  top: 40.5%;
+  left: 53%;
+}
+.iowa:hover {
+  color: blue;
+}
+.kansas {
+  position: absolute;
+  color: black;
+  font-family: sans-serif;
+  top: 48%;
+  left: 48.5%;
+}
+.kansas:hover {
+  color: blue;
+}
+.kentucky {
+  position: absolute;
+  color: black;
+  font-family: sans-serif;
+  top: 49.5%;
+  left: 61.5%;
+}
+.kentucky:hover {
+  color: blue;
+}
+.louisiana {
+  position: absolute;
+  color: black;
+  font-family: sans-serif;
+  top: 64.5%;
+  left: 54.5%;
+}
+.louisiana:hover {
+  color: blue;
+}
+.maine {
+  position: absolute;
+  color: black;
+  font-family: sans-serif;
+  top: 26.5%;
+  left: 73.5%;
+}
+.maine:hover {
+  color: blue;
+}
+.maryland {
+  position: absolute;
+  color: black;
+  font-family: sans-serif;
+  left: 72%;
+  top: 46%;
+  font-size: 13px;
+}
+.maryland:hover {
+  color: blue;
+}
+.massachusetts {
+  position: absolute;
+  color: black;
+  font-family: sans-serif;
+  top: 33%;
+  left:74.5%;
+}
+.massachusetts:hover {
+  color: blue;
+}
+.michigan {
+  position: absolute;
+  color: black;
+  font-family: sans-serif;
+  left: 60.75%;
+  top: 36%;
+}
+.michigan:hover {
+  color: blue;
+}
+.minnesota {
+  position: absolute;
+  color: black;
+  font-family: sans-serif;
+  top: 31%;
+  left: 52%;
+}
+.minnesota:hover {
+  color: blue;
+}
+.mississippi {
+  position: absolute;
+  color: black;
+  font-family: sans-serif;
+  top: 61%;
+  left: 57.25%;
+}
+.mississippi:hover {
+  color: blue;
+}
+.missouri {
+  position: absolute;
+  color: black;
+  font-family: sans-serif;
+  top: 48.5%;
+  left: 54%;
+}
+.missouri:hover {
+  color: blue;
+}
+.montana {
+  position: absolute;
+  color: black;
+  font-family: sans-serif;
+  top: 28%;
+  left: 39.5%;
+}
+.montana:hover {
+  color: blue;
+}
+.nebraska {
+  position: absolute;
+  color: black;
+  font-family: sans-serif;
+  top: 41.5%;
+  left: 47.5%;
+}
+.nebraska:hover {
+  color: blue;
+}
+.nevada {
+  position: absolute;
+  color: black;
+  font-family: sans-serif;
+  top: 43%;
+  left: 31.5%;
+}
+.nevada:hover {
+  color: blue;
+}
+.newhampshire {
+  position: absolute;
+  color: black;
+  font-family: sans-serif;
+  top: 26%;
+  left: 71%;
+}
+.newhampshire:hover {
+  color: blue;
+}
+.newjersey {
+  position: absolute;
+  color: black;
+  font-family: sans-serif;
+  top: 41%;
+  left: 72.5%;
+  font-size: 13px;
+}
+.newjersey:hover {
+  color: blue;
+}
+.newmexico {
+  position: absolute;
+  color: black;
+  font-family: sans-serif;
+  top: 57%;
+  left: 40.5%;
+}
+.newmexico:hover {
+  color: blue;
+}
+.newyork {
+  position: absolute;
+  color: black;
+  font-family: sans-serif;
+  top: 34%;
+  left: 69%;
+}
+.newyork:hover {
+  color: blue;
+}
+.northcarolina {
+  position: absolute;
+  color: black;
+  font-family: sans-serif;
+  top: 52%;
+  left: 67%;
+}
+.northcarolina:hover {
+  color: blue;
+}
+.northdakota {
+  position: absolute;
+  color: black;
+  font-family: sans-serif;
+  top: 28.5%;
+  left: 47%;
+}
+.northdakota:hover {
+  color: blue;
+}
+.ohio {
+  position: absolute;
+  color: black;
+  font-family: sans-serif;
+  top: 43%;
+  left: 62.75%;
+}
+.ohio:hover {
+  color: blue;
+}
+.oklahoma {
+  position: absolute;
+  color: black;
+  font-family: sans-serif;
+  top: 55%;
+  left: 49.5%;
+}
+.oklahoma:hover {
+  color: blue;
+}
+.oregeon {
+  position: absolute;
+  color: black;
+  font-family: sans-serif;
+  top: 32%;
+  left: 29%;
+}
+.oregeon:hover {
+  color: blue;
+}
+.pennsylvania {
+  position: absolute;
+  color: black;
+  font-family: sans-serif;
+  top: 40%;
+  left: 67.5%;
+}
+.pennsylvania:hover {
+  color: blue;
+}
+.rhodeisland {
+  position: absolute;
+  color: black;
+  font-family: sans-serif;
+  top: 37%;
+  left: 75%;
+  font-size: 12px;
+}
+.rhodeisland:hover {
+  color: blue;
+}
+.southcarolina {
+  position: absolute;
+  color: black;
+  font-family: sans-serif;
+  top: 56%;
+  left: 66%;
+}
+.southcarolina:hover {
+  color: blue;
+}
+.tennessee {
+  position: absolute;
+  color: black;
+  font-family: sans-serif;
+  top: 53.5%;
+  left: 60.5%;
+}
+.tennessee:hover {
+  color: hotpink;
+}
+.texas {
+  position: absolute;
+  color: black;
+  font-family: sans-serif;
+  top: 65%;
+  left: 48%;
+}
+.texas:hover {
+  color: blue;
+}
+.utah {
+  position: absolute;
+  color: black;
+  font-family: sans-serif;
+  top: 45%;
+  left: 36%;
+}
+.utah:hover {
+  color: blue;
+}
+.vermont {
+  position: absolute;
+  color: black;
+  font-family: sans-serif;
+  top: 27%;
+  left: 69%;
+}
+.vermont:hover {
+  color: blue;
+}
+.virginia {
+  position: absolute;
+  color: black;
+  font-family: sans-serif;
+  top: 48%;
+  left: 67%;
+}
+.virginia:hover {
+  color: blue;
+}
+.washington {
+  position: absolute;
+  color: black;
+  font-family: sans-serif;
+  top: 25%;
+  left: 30%;
+}
+.washington:hover {
+  color: blue;
+}
+.westvirginia {
+  position: absolute;
+  color: black;
+  font-family: sans-serif;
+  top: 46%;
+  left: 65%;
+}
+.westvirginia:hover {
+  color: blue;
+}
+.wisconsin {
+  position: absolute;
+  color: black;
+  font-family: sans-serif;
+  top: 34.5%;
+  left: 56%;
+  }
+.wisconsin:hover {
+  color: blue;
+}
+.wyoming {
+  position: absolute;
+  color: black;
+  font-family: sans-serif;
+  top: 37.5%;
+  left: 40.5%;
+}
+.wyoming:hover {
+  color: blue;
+}
+.southdakota {
+  position: absolute;
+  color: black;
+  font-family: sans-serif;
+  top: 34.75%;
+  left: 47%;
+}
+.southdakota:hover {
+  color: blue;
+}
+.select {
+  font-family: sans-serif;
+  position: absolute;
+  left: 15%;
+  top: 20%;
 }
