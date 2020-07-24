@@ -1,0 +1,43 @@
+.font {
+  color: white;
+  font-family: sans-serif;
+  font-size: 45px;
+  position: absolute;
+  top: 20%;
+  left: 14%;
+}
+.center {
+  color: white;
+  font-family: sans-serif;
+}
+.center:hover {
+  color: blue;
+}
+.maps {
+  color: white;
+  font-family: sans-serif;
+  
+}
+.cause {
+  color: white;
+  font-family: sans-serif;
+  
+}
+.about {
+  color: white;
+  font-family: sans-serif;
+  
+}
+img {
+  border-radius: 8px;
+  height: 600px;;
+  width: 800px;
+  position: absolute;
+  top: 18.5%;
+  left: 2%;
+}
+body {
+  background-image: url("https://cdn.glitch.com/19805b18-8b46-4a34-a3ef-419ac9a0bb2b%2Fprotestslol.jpg?v=1594843711095");
+  background-size: cover;
+  background-repeat: no-repeat;
+}
