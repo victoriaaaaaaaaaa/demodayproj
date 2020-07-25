@@ -1,0 +1,50 @@
+.header {
+  font-family: sans-serif;
+  position: absolute;
+  left: 46%;
+  top: 10%;
+}
+.maps {
+  color: black;
+  font-family: sans-serif;
+  position: absolute;
+  top: 5%;
+}
+.maps:hover {
+  color: hotpink;
+}
+.cause {
+  color: black;
+  font-family: sans-serif;
+  position: absolute;
+  top: 5%;
+  left: 5%;
+}
+.cause:hover {
+  color: hotpink;
+}
+.about {
+  color: black;
+  font-family: sans-serif;
+  position: absolute;
+  top: 5%;
+  left: 10%;
+}
+.home {
+  font-family: sans-serif;
+  color: black;
+  font-size: 30px;
+  poistion: absolute;
+  left: 0%;
+  
+}
+.home:hover {
+  color: hotpink;
+}
+.done {
+  font-family: sans-serif;
+  position: absolute;
+  font-size: 17px;
+  left: 32%;
+  top: 40%;
+}

@@ -1,0 +1,62 @@
+.create {
+  color: black;
+  font-family: sans-serif;
+  font-size: 20px;
+  position: absolute;
+  top: 15%;
+  left: 5%;
+}
+.maps {
+  color: black;
+  font-family: sans-serif;
+  position: absolute;
+  top: 10%;
+  
+}
+.cause {
+  color: black;
+  font-family: sans-serif;
+  position: absolute;
+  top: 10%;
+  left: 5%
+  
+}
+.about {
+  color: black;
+  font-family: sans-serif;
+  position: absolute;
+  top: 10%;
+  left: 10%;
+}
+.center {
+  color: black;
+  font-family: sans-serif;
+}
+.center:hover {
+  color: hotpink;
+}
+.select {
+  position: absolute;
+  left: 20%;
+  top: 25%;
+}
+.choose {
+  position: absolute;
+  left: 28%;
+  top: 25%;
+}
+.pick {
+  position: absolute;
+  top: 35%;
+  left: 18%;
+}
+.option {
+  position: absolute;
+  top: 35%;
+  left: 28%;
+}
+.dat {
+  position: absolute;
+  top: 40%;
+  left: 25%;
+}
